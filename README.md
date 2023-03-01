@@ -1,4 +1,4 @@
-## Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle
+## Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle (ICLR 2023)
 
 #### Example
 ```console
