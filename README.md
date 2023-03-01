@@ -6,4 +6,4 @@
 ```
 
 
-## Code base: https://github.com/BlackHC/BatchBALD
+#### Code base: https://github.com/BlackHC/BatchBALD
