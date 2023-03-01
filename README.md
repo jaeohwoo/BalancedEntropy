@@ -1,4 +1,4 @@
-## Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle (ICLR 2023 notable top 25%)
+## Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle (ICLR 2023)
 
 #### Setup
 1. Install torch
