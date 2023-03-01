@@ -1,4 +1,0 @@
-code base: https://github.com/BlackHC/BatchBALD
-
-1. install torch first
-2. install requirements.txt
