@@ -1,6 +1,6 @@
 ## Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle (ICLR 2023)
 
-This repository contains PyTorch code for Balanced Entropy Learning. Most of the code in this repository is adapt from [here](https://github.com/BlackHC/BatchBALD).
+This repository contains PyTorch code for Balanced Entropy Learning. Most of the code in this repository has been adapted from [here](https://github.com/BlackHC/BatchBALD).
 
 For details see [Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle ](https://openreview.net/forum?id=ZTMuZ68B1g) by Jae Oh Woo.
 
