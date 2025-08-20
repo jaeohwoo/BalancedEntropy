@@ -57,20 +57,6 @@ python ./src/run_experiment.py \
 
 ---
 
-## Repository Structure (high level)
-
-```
-src/
-  ├─ acquisition/           # Balanced Entropy and related acquisition functions
-  ├─ datasets/              # Dataset wrappers and utilities
-  ├─ models/                # BNN models and inference utilities
-  ├─ utils/                 # Common utilities and helpers
-  ├─ torch_utils.py         # (fixed) entropy/uncertainty routines
-  └─ run_experiment.py      # End-to-end experiment driver
-```
-
----
-
 ## FAQ
 
 **Does the August 2025 fix change the paper’s results?**
@@ -104,11 +90,5 @@ url={https://openreview.net/forum?id=ZTMuZ68B1g}
 ## Acknowledgments
 
 * Portions of the codebase are adapted from [BatchBALD](https://github.com/BlackHC/BatchBALD).
-
----
-
-## License
-
-See `LICENSE` for details.
 
 ---
