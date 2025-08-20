@@ -4,6 +4,10 @@ This repository contains PyTorch code for Balanced Entropy Learning. Most of the
 
 For details, see [Active Learning in Bayesian Neural Networks with Balanced Entropy Learning Principle ](https://openreview.net/forum?id=ZTMuZ68B1g) by Jae Oh Woo.
 
+#### Update as of 08/19/2025
+Fixed 'marginalized_posterior_entropy' bug in torch_utils.py
+
+
 #### Setup
 1. Install torch
 2. Install requirements

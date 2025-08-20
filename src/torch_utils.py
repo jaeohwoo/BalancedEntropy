@@ -144,9 +144,6 @@ def marginalized_posterior_entropy(logits_B_K_C):
     idx = all_beta_entropy>0
     all_beta_entropy[idx] = 0
     balent_information_B = torch.sum(all_beta_entropy, dim=1)
-    logits_mean_B_C = logit_mean(logits_B_K_C, dim=1)
-    mean_entropy_B = entropy(logits_mean_B_C, dim=-1)
-    balent_information_B += mean_entropy_B
 
     if torch.isnan(torch.sum(balent_information_B)):
         balent_information_B[torch.where(torch.isnan(balent_information_B))]=-99999999999
